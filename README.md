@@ -3,8 +3,9 @@
 ```
 humanbytes.go
 ```
-See the test next to the source for usage.
+
+Run the Go Humanbytes test next to the implementation for concrete examples.
 
 Format byte counts as KB/MB/GB and parse them back — dependency-free.
 
-No dependencies, no service to run — just the standard library.
+Go Humanbytes uses only the go standard library; there is no service or dependency to install.
